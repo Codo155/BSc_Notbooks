@@ -1,0 +1,7 @@
+Married-AF-spouse,"{Married-AF-spouse, Married-civ-spouse}","{Married-AF-spouse, Married-civ-spouse, Married-spouse-absent, Separated}",*
+Married-civ-spouse,"{Married-AF-spouse, Married-civ-spouse}","{Married-AF-spouse, Married-civ-spouse, Married-spouse-absent, Separated}",*
+Married-spouse-absent,"{Married-spouse-absent, Separated}","{Married-AF-spouse, Married-civ-spouse, Married-spouse-absent, Separated}",*
+Separated,"{Married-spouse-absent, Separated}","{Married-AF-spouse, Married-civ-spouse, Married-spouse-absent, Separated}",*
+Divorced,"{Divorced, Widowed}","{Divorced, Widowed, Never-married}",*
+Widowed,"{Divorced, Widowed}","{Divorced, Widowed, Never-married}",*
+Never-married,{Never-married},"{Divorced, Widowed, Never-married}",*

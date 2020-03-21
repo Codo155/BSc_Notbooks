@@ -1,0 +1,7 @@
+Federal-gov,"{Federal-gov, Local-gov, State-gov}"
+Local-gov,"{Federal-gov, Local-gov, State-gov}"
+State-gov,"{Federal-gov, Local-gov, State-gov}"
+Self-emp-inc,"{Self-emp-inc, Self-emp-not-inc}"
+Self-emp-not-inc,"{Self-emp-inc, Self-emp-not-inc}"
+Private,{Private}
+Without-pay,{Without-pay}
